@@ -1,0 +1,8 @@
+*/Binaries
+*/Build
+*/Intermediate
+Binaries/
+Content/
+Intermediate/
+Saved/
+.vs/
